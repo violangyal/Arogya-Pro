@@ -1,17 +1,6 @@
 # Multiple Disease Detection <br>
 
 
-![streamlit-app-2022-12-03-01-12-61 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/95062628/205396242-b79cf5f8-3b82-43f5-bbef-06b8b8c49458.gif)
-
-
-
-
-
-
-<br><br><br>
-# Demo
-<a href='https://gmayuri1904-multiple-disease-detection-app-e09xhm.streamlit.app/'>Live app</a>
-
 # Dataset Used
 1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
 2. [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
@@ -25,7 +14,6 @@
  2. Streamlit
  3. Pickle
  
- This Project is peployed on heroku.
  
  # Tests Available:
 1. Breast Cancer
